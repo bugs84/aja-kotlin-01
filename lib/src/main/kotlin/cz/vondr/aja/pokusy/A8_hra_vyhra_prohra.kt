@@ -1,6 +1,5 @@
 package cz.vondr.aja.pokusy
 
-import java.util.*
 import kotlin.random.Random
 
 fun main() {
